@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Paytone+One&display=swap');
+
+
+body{
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #383838;
+    background-color: #E5E5E5;
+}
+
+h1,h2,h3{
+    font-family: "Paytone One", Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: #fff;
+  font-size: 32px;
+  margin: 110px 0 65px;
+  line-height: 30px;
+}
+
+h2{
+    font-size: 30px;
+    color: #383838;
+    text-align: center;
+    line-height: 30px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,14 @@
+.body{
+    background-color: white;
+}
+
+.index{
+    padding: 60px 0;
+    text-align: center;
+}
+
+.index li{
+    display: inline-block;
+    margin: 0 15px;
+    list-style: none;
+}

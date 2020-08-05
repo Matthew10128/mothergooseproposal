@@ -1,0 +1,19 @@
+.mainbanner-logo{
+    float: left;
+}
+
+.mainbanner_menu-links{
+    float:right;
+}
+
+.school{
+    float: left;
+}
+
+.tiles{
+    float: left;
+}
+
+.footer-content-lists > div{
+    float: left;
+}

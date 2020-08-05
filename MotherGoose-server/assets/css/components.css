@@ -1,0 +1,45 @@
+.btn{
+    font-size: 16px;
+    line-height: 20px;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 2px;
+    transition: all .3s ease-in;
+    text-align: center;
+}
+
+.btn-white{
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    width: 160px;
+}
+
+  .btn-white:hover{
+      background-color: white;
+      color: black;
+  }
+
+.btn-solid{
+    color: white;
+    border: 1px solid #EE693F;
+    background-color: #EE693F;
+    margin-bottom: 5px; 
+}
+
+  .btn-solid:hover{
+      color: #EE693F;
+      background-color: white;
+  }
+
+.btn-semi-solid{
+    color: #EE693F;
+    border: 1px solid #EE693F;
+    background-color: white;
+    margin-top: 20px;
+}
+
+  .btn-semi-solid:hover{
+      color: white;
+      background-color: #EE693F;
+  }
